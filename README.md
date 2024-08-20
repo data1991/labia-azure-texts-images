@@ -1,4 +1,4 @@
-# <img src="https://avatars1.githubusercontent.com/u/26231823?s=280&v=4" width="80" height="80"> Recursos de IA Generativa
+# <img src="https://avatars1.githubusercontent.com/u/26231823?s=280&v=4" width="80" height="80"> Desafio de Projeto - Recursos de IA Generativa
 
 
 ## 📒 Descrição
